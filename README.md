@@ -1,24 +1,26 @@
-# SimplePocket - Desarrollador
+# SimplePocket - Developer
 
-Bienvenido al sitio web del desarrollador de SimplePocket.
+Welcome to the SimplePocket developer website.
 
-## Acerca de SimplePocket
+## About SimplePocket
 
-SimplePocket es una aplicación de gestión financiera personal que te ayuda a controlar tus gastos, ingresos y ahorros de manera sencilla y eficiente.
+SimplePocket is a personal finance management application that helps you control your expenses, income, and savings in a simple and efficient way.
 
-## Características principales
+## Main Features
 
-- Gestión de transacciones
-- Categorización de gastos
-- Seguimiento de ingresos
-- Análisis de presupuesto
-- Exportación de datos bancarios
-- Notificaciones inteligentes
+- Transaction management
+- Expense categorization
+- Income tracking
+- Budget analysis
+- Bank data export
+- Smart notifications
+- Recurring transactions
+- Financing with installments
 
-## Contacto
+## Contact
 
-Para soporte técnico o consultas sobre la aplicación, puedes contactarnos a través de Google Play Store.
+For technical support or inquiries about the application, you can contact us through Google Play Store.
 
 ---
 
-*Este sitio web es requerido para la verificación de AdMob.*
+*This website is required for AdMob verification.*
