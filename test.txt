@@ -1,0 +1,2 @@
+Test file to verify GitHub Pages is serving static files correctly.
+This file should be accessible at: https://mvdevp.github.io/simplepocket-developer-site/test.txt
